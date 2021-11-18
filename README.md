@@ -20,8 +20,9 @@ Using your Python skills and knowledge of Pandas, you’ll create a summary Data
 - Based on the multi-line chart of total fares for each city type:
 ![PyBer Fare Summary Chart](analysis/PyBer_fare_summary.png)
     1. During the time interval of Jan 2019 to Apr 2019, **Urban** has the highest **Total Fare**, **Suburban** comes to second, and **Rural** has the lowest.
-    2. The highest **Total Fare** for **Urban** was $2470.93 in the week of 2019-03-10.
-    3. The lowest **Total Fare** for **Suburban** was $67.65 in the week of 2019-01-13.
+    2. The highest **Total Fare** in **Urban** was $2470.93 in the week of 2019-03-10, while the lowest **Total Fare** in **Urban** was $1661.68 in the week of 2019-01-06.
+    3. The highest **Total Fare** in **Suburban** was $1412.74 in the week of 2019-02-24, while the lowest **Total Fare** in **Suburban** was $721.60 in the week of 2019-01-06.
+    4. The highest **Total Fare** in **Rural** was $501.24 in the week of 2019-04-07, while the lowest **Total Fare** in **Rural** was $67.65 in the week of 2019-01-13.
 
 ## Summary
  Based on the above results, there are some business recommendations for addressing the disparities among the city types:
