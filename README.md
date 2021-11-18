@@ -25,9 +25,7 @@ Using your Python skills and knowledge of Pandas, you’ll create a summary Data
 
 ## Summary
  Based on the above results, there are some business recommendations for addressing the disparities among the city types:
- 1. 
- 2.
- 3. 
- provide three business recommendations to the CEO for addressing any disparities among the city types.
-
- There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
+ 1. As the **Total Rides** in the **Urban** is the highest, this shows there are great demand on the ride-sharing in **Urban**. However, the **Average Fare per Ride** and **Average Fare per Driver** in the **Urban** area the lowest, increasing the fare in **Urban** area may improve the drivers income in **Urban** area.
+ 2. The **Total Rides** in the **Rural** is the lowest, it indicates that the demand on the ride-sharing in **Rural** is not as high as **Suburban** and **Urban**. We may consider to launch some promotion campaign and provide discounts in the **Rural** area in promote the business.
+ 3. The **Urban** has 2405 drivers (which is 4.9 and 30.8 times more drivers than **Suburban** and **Rural**), but can only contribute 2.6 and 13 times more **Total Rides**. This shows that there may be too much drivers working in the **Urban**. We may consider to reduce the numbers of drivers in **Urban** and encourage them to work in **Suburban** or **Rural**.
+ 
