@@ -7,22 +7,27 @@ Using your Python skills and knowledge of Pandas, you’ll create a summary Data
 
 ## Results
 
-Based on the PyBer Summary DataFrame from Deliverable 1:
+- Based on the ride-sharing summary DataFrame by city type:
 ![PyBer Summary DataFrame](analysis/PyBer_Summary_DataFrame.png)
-1. **Urban** has the highest values in **Total Rides**, **Total Drivers**, and **Total Fares**
-2. **Rural** has the least values in terms of the **Total Rides**, **Total Drivers**, and **Total Fares**
-3. When comparing with **Suburban** and **Rural**, **Urban** has 2.6 and 13 times more riders in **Total Rides**, and has about 5 and 31 times more drivers in **Total Drivers**
-4. However, **Rural** has the highest values in **Average Fare per Ride** and **Average Fare per Driver**
-5. **Urban** has the least values in **Average Fare per Ride** and **Average Fare per Driver**
-6. When comparing the **Average Fare per Ride** among the city type, **Rural** has 1.1 and 1.4 times more than **Suburban** and **Urban**
-7. When comparing the **Average Fare per Driver**, **Rural** has 1.4 and 3.3 times more than **Suburban** and **Urban**
+1. **Urban** has the highest values in **Total Rides**, **Total Drivers**, and **Total Fares**.
+2. **Rural** has the least values in terms of the **Total Rides**, **Total Drivers**, and **Total Fares**.
+3. When comparing with **Suburban** and **Rural**, **Urban** has 2.6 and 13 times more riders in **Total Rides**, and has about 4.9 and 30.8 times more drivers in **Total Drivers**.
+4. However, **Rural** has the highest values in **Average Fare per Ride** and **Average Fare per Driver**.
+5. **Urban** has the least values in **Average Fare per Ride** and **Average Fare per Driver**.
+6. When comparing the **Average Fare per Ride** among the city type, **Rural** has 1.1 and 1.4 times more than **Suburban** and **Urban**.
+7. When comparing the **Average Fare per Driver**, **Rural** has 1.4 and 3.3 times more than **Suburban** and **Urban**.
 
-
-Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
-
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
+- Based on the multi-line chart of total fares for each city type:
+![PyBer Fare Summary Chart](analysis/PyBer_fare_summary.png)
+1. During the time interval of Jan 2019 to Apr 2019, **Urban** has the highest **Total Fare**, **Suburban** comes to second, and **Rural** has the lowest.
+2. The highest **Total Fare** for **Urban** was $2470.93 in the week of 2019-03-10.
+3. The lowest **Total Fare** for **Suburban** was $67.65 in the week of 2019-01-13.
 
 ## Summary
- Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+ Based on the above results, there are some business recommendations for addressing the disparities among the city types:
+ 1. 
+ 2.
+ 3. 
+ provide three business recommendations to the CEO for addressing any disparities among the city types.
 
  There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
